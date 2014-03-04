@@ -1,0 +1,9 @@
+package com.example.customviewweek5hw;
+
+public class Accelerometer {
+
+	public Accelerometer() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

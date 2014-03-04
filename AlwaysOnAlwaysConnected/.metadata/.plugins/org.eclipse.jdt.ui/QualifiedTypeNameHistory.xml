@@ -19,4 +19,10 @@
 <fullyQualifiedTypeName name="com.adarshk.phoneappname.WebViewActivity"/>
 <fullyQualifiedTypeName name="android.webkit.WebView"/>
 <fullyQualifiedTypeName name="com.adarshk.phoneappname.R.id"/>
+<fullyQualifiedTypeName name="com.example.customviewweek5.CustomView"/>
+<fullyQualifiedTypeName name="android.graphics.Canvas"/>
+<fullyQualifiedTypeName name="android.graphics.Paint"/>
+<fullyQualifiedTypeName name="android.graphics.Color"/>
+<fullyQualifiedTypeName name="android.view.View.OnTouchListener"/>
+<fullyQualifiedTypeName name="android.view.MotionEvent"/>
 </qualifiedTypeNameHistroy>

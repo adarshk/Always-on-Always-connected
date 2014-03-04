@@ -1,0 +1,11 @@
+package com.example.customviewweek5hw;
+
+import android.app.Activity;
+
+public class AccelerometerExample extends Activity {
+
+	public AccelerometerExample() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
